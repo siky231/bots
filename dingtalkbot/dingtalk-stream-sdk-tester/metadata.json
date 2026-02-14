@@ -1,0 +1,8 @@
+{
+  "name": "DingTalk Stream SDK Tester",
+  "description": "A professional debugging console for DingTalk Stream SDK, featuring real-time message monitoring, multi-format message sending, and group-based history management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
